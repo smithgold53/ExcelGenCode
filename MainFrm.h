@@ -6,6 +6,7 @@
 #include "GuiMainFrame.h"
 #include "GenCode.h"
 
+
 class CMainFrame : public CGuiMainFrame
 {
 	
